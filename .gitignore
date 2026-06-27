@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# Vector Database
+vector_db/
+
+# Whisper Cache
+.cache/
+
+# Audio Files
+*.wav
+*.mp3
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
