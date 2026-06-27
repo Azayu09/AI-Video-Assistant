@@ -253,32 +253,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-## Landing Page
-
-> Add screenshot here
-
----
-
-## Processing Pipeline
-
-> Add screenshot here
-
----
-
-## Meeting Summary
-
-> Add screenshot here
-
----
-
-## AI Chat
-
-> Add screenshot here
-
----
-
 # 📌 Example Questions
 
 * What are the key decisions made?
